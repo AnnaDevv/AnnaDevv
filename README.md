@@ -60,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats (Purple Theme)
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=midnight-purple&hide_border=true"/>
@@ -89,7 +89,7 @@ Sistema acadêmico de gestão de obras e projetos
 
 ### 🔹 Portfolio Website
 Meu portfólio pessoal como desenvolvedora  
-<img src="https://img.shields.io/badge/Project-Web%20Portfolio-6d28d9?style=for-the-badge"/>
+<img src="https://anaclaudiadevv.netlify.app/"/>
 
 ---
 
