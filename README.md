@@ -1,288 +1,105 @@
-<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:5b21b6,100:2e1065&height=250&section=header&text=Ana%20Claudia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20•%20Cloud%20•%20AI%20Engineering&descAlignY=58&descSize=18" 
-  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:5b21b6,100:7c3aed&height=260&section=header&text=Ana%20Claudia&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Back-End%20Developer%20%7C%20Cloud%20%7C%20AI%20Engineering&descAlignY=56&descSize=18" />
 </p>
-
-<!-- ===================== TITLE ===================== -->
-<h1 align="center">👩‍💻 Ana Claudia</h1>
-
 <p align="center">
-  <strong>Back-End Developer • Cloud Enthusiast • AI Explorer</strong>
+<a href="https://github.com/AnnaDevv"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=620&height=45&lines=Back-End+Developer;Building+APIs+that+scale;Cloud+%2B+AI+Engineering;Python+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" /></a>
 </p>
-
 <p align="center">
-  Building systems with code, cloud and artificial intelligence 💜
+<a href="https://anaclaudiadevv.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:anaaclaudiia.oliveira@gmail.com"><img src="https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/AnnaDevv"><img src="https://img.shields.io/github/followers/AnnaDevv?label=Followers&style=for-the-badge&logo=github&color=4c1d95&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=AnnaDevv&label=Profile%20Views&color=6d28d9&style=for-the-badge" />
 </p>
-
----
-
-<!-- ===================== SOCIALS ===================== -->
+<br />
 <p align="center">
-
-  <a href="https://anaclaudiadevv.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7c3aed?style=for-the-badge"/>
-  </a>
-
-  <a href="mailto:anaaclaudiia.oliveira@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-5b21b6?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
+<img width="100%" src="assets/about.svg" alt="Sobre mim - Ana Claudia" />
 </p>
-
----
-
-<!-- ===================== BADGES ===================== -->
+<br />
+<h2 align="center">Tech Stack</h2>
+<p align="center"><b>Back-End</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,nodejs,nestjs,ts,java,php&theme=dark" /></p>
+<p align="center"><b>Front-End</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,vite,js,html,css&theme=dark" /></p>
+<p align="center"><b>Dados, Cloud &amp; DevOps</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,gcp,azure,docker,linux,git,github&theme=dark" /></p>
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Python-Back--End-7c3aed?style=for-the-badge&logo=python&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Node.js-Runtime-6d28d9?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Cloud-Google%20Cloud-5b21b6?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Azure-AI--900-4c1d95?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Docker-Containers-7e22ce?style=for-the-badge&logo=docker&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/OpenAI-LLMs%20API-581c87?style=for-the-badge&logo=openai&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LLM%20APIs-2e1065?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-4c1d95?style=flat-square&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-5b21b6?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-6d28d9?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
-
----
-
-# 💜 About Me
-
-```python
-class AnaClaudia:
-
-    def __init__(self):
-        self.name = "Ana Claudia"
-        self.role = "Back-End Developer"
-        self.location = "Bragança Paulista - SP, Brazil"
-
-        self.focus = [
-            "Back-End Development",
-            "Cloud Computing",
-            "Artificial Intelligence",
-            "Automation Systems",
-            "Cybersecurity"
-        ]
-
-    def currently_learning(self):
-        return [
-            "Google Cloud Platform",
-            "Azure AI",
-            "AI Agents",
-            "System Architecture"
-        ]
-
-    def goal(self):
-        return "Become a Cloud + AI + Back-End Engineer"
-```
-
-🎓 Studying **Gestão da Tecnologia da Informação**  
-💡 Passionate about APIs, scalable systems and AI solutions  
-🤖 Focused on automation, AI agents and cloud technologies  
-🚀 Always building projects and improving technical skills  
-
----
-
-# 🧠 Tech Stack
-
-## ☁️ Cloud & DevOps
-
+<br />
+<h2 align="center">Projetos em Destaque</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Lastro</h3>
+<img src="https://img.shields.io/badge/status-em%20desenvolvimento-7c3aed?style=flat-square" />
+<p>Plataforma para empresas construída sobre notas fiscais (NF-e): simulador da Reforma Tributária, monitor de fornecedores e conciliação financeira.</p>
+<code>TypeScript</code> <code>React</code> <code>NestJS</code> <code>PostgreSQL</code>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/AnnaDevv/FileSense">FileSense</a></h3>
+<img src="https://img.shields.io/badge/status-publicado-5b21b6?style=flat-square" />
+<p>Organizador inteligente de arquivos que automatiza a limpeza e a estrutura de pastas.</p>
+<code>Python</code> <code>Automation</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>SmartObras</h3>
+<p>Sistema acadêmico de gestão de obras e projetos de construção, com modelagem de banco de dados e arquitetura back-end.</p>
+<code>Python</code> <code>MySQL</code> <code>Database Modeling</code>
+</td>
+<td width="50%" valign="top">
+<h3>AI Automation Lab</h3>
+<p>Experimentos com APIs de IA, agentes e fluxos inteligentes de automação.</p>
+<code>LLM APIs</code> <code>AI Agents</code> <code>Prompt Engineering</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Card Simulator</h3>
+<p>Simulador interativo de cartão de crédito com detecção de bandeira, cores dinâmicas e efeito de flip animado.</p>
+<code>JavaScript</code> <code>CSS Animations</code>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://anaclaudiadevv.netlify.app/">Portfolio</a></h3>
+<p>Portfólio pessoal com interface moderna e design responsivo.</p>
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+</td>
+</tr>
+</table>
+<br />
+<h2 align="center">GitHub Analytics</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,gcp,docker,linux,git,github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnnaDevv&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaDevv&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&langs_count=8" />
 </p>
-
----
-
-## 💻 Back-End Development
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,java,php,mysql,cs" />
+<img src="https://streak-stats.demolab.com?user=AnnaDevv&theme=midnight-purple&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 </p>
-
----
-
-## 🌐 Front-End & Web
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnnaDevv&bg_color=00000000&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=5b21b6&hide_border=true" />
 </p>
-
----
-
-## 🤖 AI & Automation
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnnaDevv/AnnaDevv/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnnaDevv/AnnaDevv/output/github-snake.svg" />
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/AnnaDevv/AnnaDevv/output/github-snake-dark.svg" />
+</picture>
 </p>
-
+<br />
+<h2 align="center">Certificações</h2>
 <p align="center">
-  AI Agents • LLM APIs • Machine Learning • Automation Scripts
+<img src="https://img.shields.io/badge/Azure%20AI--900-AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-Cloud%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-Fundamentals-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
----
-
-# 🚀 Featured Projects
-
-## 🔹 SmartObras
-
-📌 Academic project focused on construction and project management systems.
-
-### Technologies
-- Python
-- MySQL
-- Back-End Architecture
-- Database Modeling
-
-<p>
-  <img src="https://img.shields.io/badge/System-Management%20Platform-7c3aed?style=for-the-badge"/>
-</p>
-
----
-
-## 🔹 Portfolio Website
-
-📌 Personal developer portfolio with modern UI and responsive design.
-
-<p align="left">
-
-  <a href="https://anaclaudiadevv.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-2d2d2d?style=for-the-badge&logoColor=white"/>
-  </a>
-
-  <a href="https://anaclaudiadevv.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE%20WEBSITE-6d28d9?style=for-the-badge&logoColor=white"/>
-  </a>
-
-</p>
-
----
-
-## 🔹 Card Simulator System
-
-📌 Interactive credit card simulator with dynamic rendering and animations.
-
-### Features
-- Dynamic colors
-- Card brand detection
-- Interactive flip effect
-
-<p>
-  <img src="https://img.shields.io/badge/UI-Dynamic%20System-6d28d9?style=for-the-badge"/>
-</p>
-
----
-
-## 🔹 AI Automation Lab
-
-📌 Experiments with AI APIs, automation and intelligent workflows.
-
-### Focus
-- OpenAI APIs
-- AI Agents
-- Automation Systems
-- Prompt Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/AI-Automation%20Lab-7e22ce?style=for-the-badge"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
+<br />
 <p align="center">
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" 
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" 
-  />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=500&lines=Always+learning+%7C+Always+building+%7C+Always+evolving" />
 </p>
-
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=SEU_USUARIO_AQUI&theme=midnight-purple&hide_border=true&background=00000000" 
-  />
-</p>
-
----
-
-# 🎓 Certifications
-
-- 🟣 Microsoft Azure AI-900 — AI Fundamentals
-- 🟣 Google Cloud Platform — Cloud Fundamentals
-- 🟣 Linux Fundamentals
-- 🟣 Artificial Intelligence & Cloud Studies
-
----
-
-# 📚 Currently Learning
-
-```txt
-> Cloud Architecture
-> AI Engineering
-> APIs & Automation
-> Cybersecurity Fundamentals
-> Scalable Back-End Systems
-```
-
----
-
-# 📫 Contact
-
-<p align="center">
-
-  <a href="mailto:anaaclaudiia.oliveira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anaaclaudiia.oliveira%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://anaclaudiadevv.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Access%20Now-5b21b6?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-```bash
-while(alive) {
-   learn();
-   build();
-   evolve();
-}
-```
-
----
-
-# 🌌 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
-</p>
-
----
-
-<p align="center">
-  💜 Always learning • Always building • Always evolving 💜
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:5b21b6,100:7c3aed&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:5b21b6,100:2e1065&height=120&section=footer" />
 </p>
