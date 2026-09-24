@@ -11,8 +11,18 @@
 <img src="https://komarev.com/ghpvc/?username=AnnaDevv&label=Profile%20Views&color=6d28d9&style=for-the-badge" />
 </p>
 <br />
+<h2 align="center">Sobre mim</h2>
 <p align="center">
-<img width="100%" src="assets/about.svg" alt="Sobre mim - Ana Claudia" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=800&color=C4B5FD&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=130&lines=Oi%2C+eu+sou+a+Ana+Claudia;Desenvolvedora+back-end+focada+em+cloud+e+IA;Construo+APIs+escal%C3%A1veis+e+automa%C3%A7%C3%B5es+inteligentes;Hoje+construindo+o+Lastro%2C+uma+plataforma+sobre+NF-e" alt="Sobre mim" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Base-Bragan%C3%A7a%20Paulista%2C%20SP-7c3aed?style=for-the-badge&labelColor=2e1065" />
+<img src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o-Gest%C3%A3o%20da%20TI-6d28d9?style=for-the-badge&labelColor=2e1065" />
+<br />
+<img src="https://img.shields.io/badge/Stack-Python%2C%20Node.js%2C%20NestJS-5b21b6?style=for-the-badge&labelColor=2e1065" />
+<img src="https://img.shields.io/badge/Estudando-GCP%2C%20Azure%2C%20AI%20Agents-7c3aed?style=for-the-badge&labelColor=2e1065" />
+<br />
+<img src="https://img.shields.io/badge/Construindo-Lastro%20(NF--e)-a78bfa?style=for-the-badge&labelColor=2e1065" />
 </p>
 <br />
 <h2 align="center">Tech Stack</h2>
